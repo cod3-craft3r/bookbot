@@ -1,2 +1,3 @@
 # bookbot
-a simple Python bot to count the occurences of alphabets in e-books.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
